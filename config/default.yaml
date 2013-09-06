@@ -1,0 +1,6 @@
+webserver:
+  port: 3000
+
+logger:
+  filename: './logs/app.log'
+  colorize: true

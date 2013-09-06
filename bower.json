@@ -1,0 +1,23 @@
+{
+  "name": "Boilerpad",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shayanjm/Boilerpad",
+  "authors": [
+    "Shayan Mohanty <shayan.mohanty@gmail.com>"
+  ],
+  "description": "NodeJS Boilerplate Project",
+  "main": "app.js",
+  "keywords": [
+    "Boilerplate",
+    "NodeJS"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
