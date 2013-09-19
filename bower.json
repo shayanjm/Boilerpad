@@ -1,23 +1,9 @@
 {
-  "name": "Boilerpad",
+  "name": "express-require-grunt-angular-seed",
   "version": "0.0.0",
-  "homepage": "https://github.com/shayanjm/Boilerpad",
-  "authors": [
-    "Shayan Mohanty <shayan.mohanty@gmail.com>"
-  ],
-  "description": "NodeJS Boilerplate Project",
-  "main": "app.js",
-  "keywords": [
-    "Boilerplate",
-    "NodeJS"
-  ],
-  "license": "MIT",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "dependencies": {
+    "angular": "~1.0.6",
+    "jquery": "~1.9.1",
+    "requirejs": "~2.1.5"
+  }
 }
