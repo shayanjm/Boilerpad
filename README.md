@@ -10,3 +10,10 @@ Utilizes:
 + Grunt
 + Winston
 + Mocha
+
+
+Installation:
+==============
+``npm install
+``bower install
+``grunt
