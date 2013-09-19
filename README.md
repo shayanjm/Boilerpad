@@ -15,5 +15,7 @@ Utilizes:
 Installation:
 ==============
 ``npm install
+
 ``bower install
+
 ``grunt
